@@ -1,6 +1,4 @@
-# E-Commerce_Supply_Chain_Analytics_Python_Project Anirban
-
-E-Commerce Supply Chain Analytics Project | Python Project
+# E-Commerce Supply Chain Analytics Project | Python Project
 
 Objective: To build a Python-based analytics system that evaluates an e-commerce company’s supply-chain efficiency, measuring order-to-delivery performance, warehouse operations, and cost optimization.
 
